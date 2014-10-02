@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfTutorialData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<TutorialData>
+		<paragraphText>Welcome to the DCGS Ops Floor. This tutorial will explain how to learn about the Ops Floor. If you want to dive right in and start exploring the Ops Floor, click on the “End Tutorial” button at any time.</paragraphText>
+		<supportingImageFile>Tutorial/Images/fileName</supportingImageFile>
+	</TutorialData>
+	<TutorialData>
+		<paragraphText>There are two modes to view the DCGS Ops Floor: Tour and Explore. To take a linear tour, press the space bar to advance from workstation to workstation. If you want to explore on your own, press the “S” button to enter Sandbox exploration. By default, we start in Tour mode, and if you are in Sandbox mode, press the “S” again if you want to return to Tour mode.</paragraphText>
+		<supportingImageFile>Tutorial/Images/fileName</supportingImageFile>
+	</TutorialData>
+	<TutorialData>
+		<paragraphText>In both modes, there are a few keys that have special functions.  If you press and hold down the right mouse button, you can turn your point of view to follow the movement of the mouse. The “P” button toggles Pausing the game; press it once to pause the tour; press it again to restart the tour.  Press “Esc” at any time to exit the game; you must confirm this action in case you accidentally hit Escape.</paragraphText>
+		<supportingImageFile>Tutorial/Images/fileName</supportingImageFile>
+	</TutorialData>
+	<TutorialData>
+		<paragraphText>In Explore mode, you can move in any direction by clicking the left mouse button on the part of the Ops Floor you would like to explore.</paragraphText>
+		<supportingImageFile>Tutorial/Images/fileName</supportingImageFile>
+	</TutorialData>
+	<TutorialData>
+		<paragraphText>In both modes, when you get close to a work position, part of the screen displays a message to “click here” to learn more about that position. * Go ahead and left mouse click on the message.** In front of the GUI display, show the text “This is what will appear when you learn about a workstation. If you click on that “X” with the left mouse button, it will close the display. If you click on the “Full Description” button, more information displays. Click on the “X” on the top right of this information panel to close it and continue.</paragraphText>
+		<supportingImageFile>Tutorial/Images/fileName</supportingImageFile>
+	</TutorialData>
+	<TutorialData>
+		<paragraphText>That’s all you need to know. Your tour will start now. Press the space bar to stay in tour more or the “S” key to switch to Sandbox mode for free form exploration.</paragraphText>
+		<supportingImageFile>Tutorial/Images/fileName</supportingImageFile>
+	</TutorialData>
+</ArrayOfTutorialData>

@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ArrayOfStationXMLData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<StationXMLData>
+		<stationName>MOC</stationName>
+		<stationFullName>Mission Operations Commander</stationFullName>
+		<stationAbbrev>MOC</stationAbbrev>
+		<stationRank>2nd LT,1st LT</stationRank>
+		<stationShortDescription>The Mission Operations Commander, or MOC, is responsible for the processing, exploitation, and dissemination, or PED, of timely and actionable intelligence.  There is usually a MOC assigned to each different type of mission on the DCGS such as Signals or Imagery Intelligence.</stationShortDescription>
+		<stationLongDescription>The MOC coordinates with the Air Operations Centers, (AOCs), other AF DGS sites, collection platforms, platform liaison officers (LNOs), end users, and other exploitation partners for successful mission execution.  The MOC also coordinate site maintenance activity that directly impacts the mission such as logistics, communications, computer support, and contractor support.  MOCs generate and submit the post mission summary report for each mission when applicable and utilize various sources to maintain situational awareness and maximize ad hoc and cross-cue collection opportunities.  In addition, they are also tasked with managing assigned crew personnel to ensure the Crew Manning Letter (CML) requirement is met for mission Go/No-Go criteria.</stationLongDescription>
+		<shortDescriptionAudioLocation>Audio/birdschirping</shortDescriptionAudioLocation>
+		<fullDescriptionAudioLocation>Audio/birdschirping</fullDescriptionAudioLocation>
+		<rankImageFile>Images/Ranks/</rankImageFile>
+	</StationXMLData>
+	<StationXMLData>
+		<stationName>GA</stationName>
+		<stationFullName>Geospatial Analyst</stationFullName>
+		<stationAbbrev>GA</stationAbbrev>
+		<stationRank>Amn,A1C,SrA</stationRank>
+		<stationShortDescription>The Geospatial Analyst, or GA, depending on the assigned flight, can be tasked to exploit both Full Motion Video (FMV) and still imagery.</stationShortDescription>
+		<stationLongDescription>The GA is responsible for the first phase exploitation and creation of imagery intelligence products in accordance with TCPED procedures.  The analysis of the imagery given to them is done by focusing on the Essential Elements of Information (EEI) the customer provides to the GA.  They use reference  imagery from past missions to compare between current images being analyzed.  They also gather multi-source intelligence and determine its relevancy to the current mission being worked.  The GA reports to the Imagery Mission Supervisor (IMS).</stationLongDescription>
+		<shortDescriptionAudioLocation>Audio/birdschirping</shortDescriptionAudioLocation>
+		<fullDescriptionAudioLocation>Audio/birdschirping</fullDescriptionAudioLocation>
+		<rankImageFile>Images/Ranks/</rankImageFile>
+	</StationXMLData>
+	<StationXMLData>
+		<stationName>GRE</stationName>
+		<stationFullName>Geospatial Reports Editor</stationFullName>
+		<stationAbbrev>GRE</stationAbbrev>
+		<stationRank>SrA,SSgt</stationRank>
+		<stationShortDescription>The Geospatial Reports Editor, or GRE, performs quality control and dissseminates intelligence related products to their customers.</stationShortDescription>
+		<stationLongDescription>GREs are responsible for knowing all guidance and instructions on the exploitation and dissemination process.  They task out images to the GA to complete on all U-2 missions.  The GRE always maintains situational awareness on mission execution and accomplishment in order to prevent a backlog in the amount of images still to be accomplished at the end of each shift. GREs reports directly to the IMS.</stationLongDescription>
+		<shortDescriptionAudioLocation>Audio/birdschirping</shortDescriptionAudioLocation>
+		<fullDescriptionAudioLocation>Audio/birdschirping</fullDescriptionAudioLocation>
+		<rankImageFile>Images/Ranks/</rankImageFile>
+	</StationXMLData>
+	<StationXMLData>
+		<stationName>IMS</stationName>
+		<stationFullName>Imagery Mission Supervisor</stationFullName>
+		<stationAbbrev>IMS</stationAbbrev>
+		<stationRank>SSgt,TSgt</stationRank>
+		<stationShortDescription>The IMS, or High Altitude Imagery Mission Supervisor, manages both the FMV (Full Motion Video) mission and the still imagery mission execution.</stationShortDescription>
+		<stationLongDescription>The Imagery Mission Supervisor ensures that all positions on the imagery exploitation side of the ops floor are completing tasks as necessary.  In addition to the management of the mission, the IMS must know all guidance and procedures for imagery exploitation and maintain communication with customers to ensure that requests are being adequately met.  They are the final authority for all intelligence related products and report directly to the Mission Operations Commander (MOC).</stationLongDescription>
+		<shortDescriptionAudioLocation>Audio/birdschirping</shortDescriptionAudioLocation>
+		<fullDescriptionAudioLocation>Audio/birdschirping</fullDescriptionAudioLocation>
+		<rankImageFile>Images/Ranks/</rankImageFile>
+	</StationXMLData>
+	<StationXMLData>
+		<stationName>SCR</stationName>
+		<stationFullName>Screener</stationFullName>		
+		<stationAbbrev>SCR</stationAbbrev>
+		<stationRank>A1C,SrA</stationRank>
+		<stationShortDescription>The Screener, or SCR, is responsible for the communications of the FMV mission.</stationShortDescription>
+		<stationLongDescription>The SCR works directly with two other GAs on an FMV mission.  The Screener's responsibility is to relay important information from the GA to the customer and from the customer to the GA.  They are in constant communication with the GAs to make sure they know what to look for and what products to create for the customer.  Screeners report directly to the IMS.</stationLongDescription>
+		<shortDescriptionAudioLocation>Audio/birdschirping</shortDescriptionAudioLocation>
+		<fullDescriptionAudioLocation>Audio/birdschirping</fullDescriptionAudioLocation>
+		<rankImageFile>Images/Ranks/</rankImageFile>
+	</StationXMLData>
+	<StationXMLData>
+		<stationName>HAWC</stationName>
+		<stationFullName>High Altitude Workflow Coordinator</stationFullName>
+		<stationAbbrev>HAWC</stationAbbrev>
+		<stationRank>A1C,SrA</stationRank>
+		<stationShortDescription>The High Altitude Workflow Coordinator, or HAWC, tasks out images to be exploited by Gas on all of the Global Hawk missions.</stationShortDescription>
+		<stationLongDescription>HAWCs are responsible for making sure the GA has targets that can be exploited off of the Global Hawk.  This is done by telling the GA the targets to accomplish.  If an image comes in that is not exploitable, the GA will let the HAWC know via chat and then it is the job of the HAWC to retask that image to get a better image to exploit.  The HAWC reports directly to the IMS.</stationLongDescription>
+		<shortDescriptionAudioLocation>Audio/birdschirping</shortDescriptionAudioLocation>
+		<fullDescriptionAudioLocation>Audio/birdschirping</fullDescriptionAudioLocation>
+		<rankImageFile>Images/Ranks/</rankImageFile>
+	</StationXMLData>
+	<StationXMLData>
+		<stationName>MSA</stationName>
+		<stationFullName>Multi-Source Analyst</stationFullName>
+		<stationAbbrev>MSA</stationAbbrev>
+		<stationRank>A1C,SrA,SSgt</stationRank>
+		<stationShortDescription>The Multi-Source Analyst (MSA) gathers, analyzes, and fuses information from all intelligence sources and produces reports to support the warfighter.</stationShortDescription>
+		<stationLongDescription>The MSA provides relevant mission intelligence to DCGS crews and Commanders so they can conduct their mission armed with information vital to their success.  MSA’s gather intelligence from the SIGINT and IMINT crews, their internal partners, and outside Intelligence Agencies, their external partners, and conduct research using various computer resources such as email, internet, chat, or voice.  MSA's also conduct intelligence research in support of DCGS crews and the operational mission.  This intelligence is used to build briefings, storyboards, and intelligence reports for both the mission crews and the squadron commanders.  Sometimes they receive requests for information (RFIs) from forward deployed warfighters and other national agencies.  MSAs process these RFIs and work to answer them in a timely manner.  Within the DCGS, MSAs are commonly imbedded with imagery crews providing current intelligence directly to that mission crew in order to help fill intelligence gaps.   Other MSAs work in a fusion cell, which is strategically positioned on the DCGS Operations Floor in order to be able to provide the co-located Mission Operations Commander (MOC), IMINT crews, and SIGINT crews enhanced real-time mission support.</stationLongDescription>
+		<shortDescriptionAudioLocation>Audio/birdschirping</shortDescriptionAudioLocation>
+		<fullDescriptionAudioLocation>Audio/birdschirping</fullDescriptionAudioLocation>
+		<rankImageFile>Images/Ranks/</rankImageFile>
+	</StationXMLData>
+	<StationXMLData>
+		<stationName>CAN</stationName>
+		<stationFullName>Correlation Analyst</stationFullName>
+		<stationAbbrev>CAN</stationAbbrev>
+		<stationRank>A1C</stationRank>
+		<stationShortDescription>The Correlation Analyst, or CAN, correlates multi-source data in support of mission operations.</stationShortDescription>
+		<stationLongDescription>The CAN, liaises with the DCGS mission/crew/DART and the supported units by passing near-real time multi-intelligence to/from the DCGS mission crews, supported units, and mission partners.  The DART integrates this intelligence into their pre/post-mission products.  When working on a high-altitude mission, they also coordinate the addition of any image requests that have not made it onto the standing target deck and work with the customer to ensure that their collection requirements are met.</stationLongDescription>
+		<shortDescriptionAudioLocation>Audio/birdschirping</shortDescriptionAudioLocation>
+		<fullDescriptionAudioLocation>Audio/birdschirping</fullDescriptionAudioLocation>
+		<rankImageFile>Images/Ranks/</rankImageFile>
+	</StationXMLData>
+	<StationXMLData>
+		<stationName>SP</stationName>
+		<stationFullName>Sensor Planner</stationFullName>
+		<stationAbbrev>SP</stationAbbrev>
+		<stationRank>A1C,SrA</stationRank>
+		<stationShortDescription>Sensor Planners, or SPs, coordinate the navigation routes and collection plan for sensors and controls applicable sensors.</stationShortDescription>
+		<stationLongDescription>The SP coordinates with the MOC, IMS, GMS, COMINT Mission Supervisor (CMS), and flying unit when generating the navigation and collection plan routes for mission aircraft based on tasked collection and safety of flight requirements.  SPs track the progress of sensor collection during mission execution.  They also provide collection status to the MOC and IMS via text chat of Crew Comm.  The SP can dynamically re-task the sensor during mission execution to satisfy standing and ad hoc collection requirements as required.</stationLongDescription>
+		<shortDescriptionAudioLocation>Audio/birdschirping</shortDescriptionAudioLocation>
+		<fullDescriptionAudioLocation>Audio/birdschirping</fullDescriptionAudioLocation>
+		<rankImageFile>Images/Ranks/</rankImageFile>
+	</StationXMLData>
+	<StationXMLData>
+		<stationName>GMS</stationName>
+		<stationFullName>Ground Mission Supervisor</stationFullName>
+		<stationAbbrev>GMS</stationAbbrev>
+		<stationRank>SSgt,TSgt</stationRank>
+		<stationShortDescription>The Ground Mission Supervisor, or GMS, is the senior cryptologic authority and designated Signals Intelligence (SIGINT) collection management authority (CMA) for AF DCGS SIGINT missions.</stationShortDescription>
+		<stationLongDescription>The GMS manages all local, distributed, and organic SIGINT mission crew activities: aircrew/aircraft safety, maintenance, crew coordination, tasking, and collection.  The GMS directs all Threat Warning support to operations and relays NICKELBACK internal advisories directly to the pilot.  They relay threat warning data to the Signals and Warning supervisor.  The GMS acts as a back-up crewmember for radio transmission of threat warning calls to supported friendly air, ground, and naval tactical units.  The GMSs inform the MOC on events that may require diverting or re-routing the mission aircraft.  The GMS will assume the duties of the MOC for the mission crew if the MOC becomes incapacitated or ill during mission execution and direct actions as necessary until a qualified replacement MOC arrives or the mission is reallocated to another AF DCGS crew/site.  The GMS also assigns portions of the preliminary mission summary (PREMS) to TR for completion.  They consolidate, perform quality control, and submit a PREMS to TR for dissemination in accordance with NSA guidance.  Upon initiation of Critical Information (CRITIC) activities, GMSs assume control of mission crew communications and enact communication and data dissemination restrictions and procedures in conjunction with other applicable crew members.</stationLongDescription>
+		<shortDescriptionAudioLocation>Audio/birdschirping</shortDescriptionAudioLocation>
+		<fullDescriptionAudioLocation>Audio/birdschirping</fullDescriptionAudioLocation>
+		<rankImageFile>Images/Ranks/</rankImageFile>
+	</StationXMLData>
+	<StationXMLData>
+		<stationName>EMS</stationName>
+		<stationFullName>ELINT Mission Supervisor</stationFullName>
+		<stationAbbrev>EMS</stationAbbrev>
+		<stationRank>SSgt,TSgt</stationRank>
+		<stationShortDescription>The ELINT Mission Supervisor, or EMS, directs electronic intelligence collection, and may also perform duties of the Threat Analyst and Signals Analyst.</stationShortDescription>
+		<stationLongDescription>The EMS ensures the accuracy and timeliness of all ELINT reporting.  They directly control ELINT sensor collection, reporting, and direction finding processes in accordance with tasking requirements and/or the GMS's direction.  EMSs relay threat emitter data to the GMS to amplify or assist with Threat Warning.  EMSs also coordinate with the SSO on dual signal targets to ensure PERFORMA collection of Integrated Air Defense System entitites.  Last, EMSs perform NICKLEBACK actions as outlined in appropriate United States Signals Intelligence Directives, Combined SIGINT Operation Regulations, and local procedures in conjunction with other applicable crew members.</stationLongDescription>
+		<shortDescriptionAudioLocation>Audio/birdschirping</shortDescriptionAudioLocation>
+		<fullDescriptionAudioLocation>Audio/birdschirping</fullDescriptionAudioLocation>
+		<rankImageFile>Images/Ranks/</rankImageFile>
+	</StationXMLData>
+	<StationXMLData>
+		<stationName>TA</stationName>
+		<stationFullName>Threat Analyst</stationFullName>
+		<stationAbbrev>TA</stationAbbrev>
+		<stationRank>A1C,SrA,SSgt</stationRank>
+		<stationShortDescription>The Threat Analyst is commonly referred to as the TA.</stationShortDescription>
+		<stationLongDescription>The TA monitors electronic emissions, evaluates and reports threats detected, produces and disseminates Tactical Electronic Intelligence reports, and forwards all ELINT data to the TR for issuance of ELINT-based TACREPS.  The TA also performs NICKELBACK actions as outlined in appropriate United States Signals Intelligence Directives, Combined SIGINT Operation Regulations, and local procedures in conjunction with other applicable crew members.</stationLongDescription>
+		<shortDescriptionAudioLocation>Audio/birdschirping</shortDescriptionAudioLocation>
+		<fullDescriptionAudioLocation>Audio/birdschirping</fullDescriptionAudioLocation>
+		<rankImageFile>Images/Ranks/</rankImageFile>
+	</StationXMLData>
+	<StationXMLData>
+		<stationName>SA</stationName>
+		<stationFullName>Signals Analyst</stationFullName>
+		<stationAbbrev>SA</stationAbbrev>
+		<stationRank>Amn,A1C,SrA,SSgt</stationRank>
+		<stationShortDescription>The Signals Analyst is commonly referred to as the SA.</stationShortDescription>
+		<stationLongDescription>The SA is responsible for analyzing and resolving unknown and ambiguous electronic signals and emissions.   The SAs produce and disseminate TACELINT reports and produce and amplify tracks on Integrated Broadcast Service-Simplex.  SAs are also responsible for the forwarding of ELINT data to TR for issuance of ELINT-based TACREPs as well as performing NICKLEBACK actions as outlined in appropriate United States Signals Intelligence Directives, Combined SIGINT Operation Regulations, and local procedures in conjunction with other applicable crew members.</stationLongDescription>
+		<shortDescriptionAudioLocation>Audio/birdschirping</shortDescriptionAudioLocation>
+		<fullDescriptionAudioLocation>Audio/birdschirping</fullDescriptionAudioLocation>
+		<rankImageFile>Images/Ranks/</rankImageFile>
+	</StationXMLData>
+	<StationXMLData>
+		<stationName>CMS</stationName>
+		<stationFullName>COMINT Mission Supervisor</stationFullName>
+		<stationAbbrev>CMS</stationAbbrev>
+		<stationRank>SSgt,SrA</stationRank>
+		<stationShortDescription>The COMINT Mission Supervisor, better known as the CMS, is responsible for directing communications intelligence (COMINT) site collection activities.</stationShortDescription>
+		<stationLongDescription>The CMS directs COMINT collection in accordance with GMS direction and mission tasking.  They direct and manage the cryptologic operators and special signals operations activities.  The CMS also conducts quality control on collected activities provided by the COs and SSOs to the SIGINT reporters.  They coordinate with the GMS to ensure proper collection asset management.  CMSs advise the GMS on SIGINT collection considerations and serve as the focal point for collaboration with other SIGINT collection, transcription, analysis, and reporting teams when required to assist the mission.  Their collaboration efforts can be internal and/or external.  CMSs assist the MOC and GMS with communication and coordination to the pilot through secure voice net if lead site loses communication.  They can coordinate with the GMS and CAN with geo-location and direction finding for Threat Warning considerations.  CMSs also provide EEIs to the CAN ensuring the safety of the supported unit.  CMSs perform NICKELBACK actions as outlined in appropriate United States Signals Intelligence Directives, Combined SIGINT Operation Regulations, and local procedures in conjunction with other applicable crew members.</stationLongDescription>
+		<shortDescriptionAudioLocation>Audio/birdschirping</shortDescriptionAudioLocation>
+		<fullDescriptionAudioLocation>Audio/birdschirping</fullDescriptionAudioLocation>
+		<rankImageFile>Images/Ranks/</rankImageFile>
+	</StationXMLData>
+	<StationXMLData>
+		<stationName>CO</stationName>
+		<stationFullName>Cryptologic Operator</stationFullName>
+		<stationAbbrev>CO</stationAbbrev>
+		<stationRank>A1C,SrA,SSgt</stationRank>
+		<stationShortDescription>The Cryptologic Operator, or CO, collects, geo-locates and direction-finds, processes, exploits, and reports on target communications in accordance with mission tasking and GMS and CMS direction.</stationShortDescription>
+		<stationLongDescription>COs perform NICKLEBACK actions as outlined in appropriate United States Signals Intelligence Directives, Combined SIGINT Operation Regulations, and local procedures in conjunction with other applicable crew members.</stationLongDescription>
+		<shortDescriptionAudioLocation>Audio/birdschirping</shortDescriptionAudioLocation>
+		<fullDescriptionAudioLocation>Audio/birdschirping</fullDescriptionAudioLocation>
+		<rankImageFile>Images/Ranks/</rankImageFile>
+	</StationXMLData>
+	<StationXMLData>
+		<stationName>SSO</stationName>
+		<stationFullName>Special Signals Operator</stationFullName>
+		<stationAbbrev>SSO</stationAbbrev>
+		<stationRank>A1C,SrA,SSgt</stationRank>
+		<stationShortDescription>The Special Signals Operator, or SSO, detects, collects, geo-locates and direction-finds, processes, and exploits PROFORMA, special signals, and encrypted communications.</stationShortDescription>
+		<stationLongDescription>If not already tasked by the DLO, units may assign the SSO to operate personnel recovery equipment and ensure geo-location data is obtained and disseminated.  An SSO can be tasked to perform NICKELBACK actions as outlined in appropriate United States Signals Intelligence Directives, Combined SIGINT Operation Regulations, and local procedures in conjunction with other applicable crew members.</stationLongDescription>
+		<shortDescriptionAudioLocation>Audio/birdschirping</shortDescriptionAudioLocation>
+		<fullDescriptionAudioLocation>Audio/birdschirping</fullDescriptionAudioLocation>
+		<rankImageFile>Images/Ranks/</rankImageFile>
+	</StationXMLData>
+	<StationXMLData>
+		<stationName>MMS</stationName>
+		<stationFullName>Multi-Source Mission Supervisor</stationFullName>
+		<stationAbbrev>MMS</stationAbbrev>
+		<stationRank>SrA,SSgt</stationRank>
+		<stationShortDescription>The Multi-Source Mission Supervisor, or MMS, leads the DCGS Analysis Reporting Team's (DART) pre and post mission support activities and fused tactical analysis efforts.</stationShortDescription>
+		<stationLongDescription>The MMS directs, manages, and provides quality control for all the DART activities.  These include Requests for Information (RFI), all DART products and reports, target research, and providing operations focus to mission crewmembers.  The MMS coordinates ad hoc requests with crewmembers, theater operations, and supported units.  The MMS is the final release authority for all DART products.</stationLongDescription>
+		<shortDescriptionAudioLocation>Audio/birdschirping</shortDescriptionAudioLocation>
+		<fullDescriptionAudioLocation>Audio/birdschirping</fullDescriptionAudioLocation>
+		<rankImageFile>Images/Ranks/</rankImageFile>
+	</StationXMLData>
+	<StationXMLData>
+		<stationName>SW</stationName>
+		<stationFullName>Surveillance and Warning Supervisor</stationFullName>
+		<stationAbbrev>S&amp;W</stationAbbrev>
+		<stationRank>SSgt,TSgt</stationRank>
+		<stationShortDescription>The Surveillance and Warning Supervisor, or S&amp;W, manages SIGINT reporting analysis and dissemination activities. The S&amp;W acts as the final authority for determining if events meet CRITIC reporting criteria and NICKELBACK criteria. The S&amp;W will cross-cue SIGINT reporting activities with segment leads.</stationShortDescription>
+		<stationLongDescription>The S&amp;W determines if CRITIC criteria has been met and directs CRITIC issuance and initiation of station CRITIC checklist.  They review and disseminate CRITIC reports as well as performing quality control checks on all SIGINT products and reports.  The S&amp;W verifies NICKELBACK code groups and directs and verifies issuance of advisories.  The S&amp;W performs NICKELBACK actions as outlined in appropriate United States Signals Intelligence Directives, Combined SIGINT Operation Regulations, and local procedures in conjunction with other applicable crew members.</stationLongDescription>
+		<shortDescriptionAudioLocation>Audio/birdschirping</shortDescriptionAudioLocation>
+		<fullDescriptionAudioLocation>Audio/birdschirping</fullDescriptionAudioLocation>
+		<rankImageFile>Images/Ranks/</rankImageFile>
+	</StationXMLData>
+	<StationXMLData>
+		<stationName>DLO</stationName>
+		<stationFullName>Dat-Link Operator</stationFullName>
+		<stationAbbrev>DLO</stationAbbrev>
+		<stationRank>SrA,SSgt</stationRank>
+		<stationShortDescription>The Dat-Link Operator, or DLO, provides voice tactical reports, situational updates, and intelligence summaries to supported air, ground, and naval tactical units via line-of-sight and satellite communications radio nets.</stationShortDescription>
+		<stationLongDescription>The DLO monitors and provides updates and amplification data via Integrated Broadcast Service Interactive and tactical data links.  The DLO is responsible for Threat Warning calls to supported friendly air, ground, and naval tactical units.  They verify NICKELBACK code groups and issue NICKELBACK external advisories when directed by the S&amp;W supervisor.  The DLO acts as a back-up crewmember for the transmission of NICKELBACK internal advisories to the pilot.  The DLO  assists the GMS in coordinating with external agencies via tactical radios and chat.  They also operate personnel recovery equipment and communicate with down or lost personnel and ensure geo-location data is obtained and disseminated.  The DLO provides significant activities updates to crew throughout the course of a mission.  DLOs also perform NICKELBACK actions as outlined in approprioate United States Signals Intelligence Directives, Combined SIGINT Operation Regulations, and local procedures in conjunction with other applicable crew members.</stationLongDescription>
+		<shortDescriptionAudioLocation>Audio/birdschirping</shortDescriptionAudioLocation>
+		<fullDescriptionAudioLocation>Audio/birdschirping</fullDescriptionAudioLocation>
+		<rankImageFile>Images/Ranks/</rankImageFile>
+	</StationXMLData>
+	<StationXMLData>
+		<stationName>PR</stationName>
+		<stationFullName>Product Reporter</stationFullName>
+		<stationAbbrev>PR</stationAbbrev>
+		<stationRank>SrA,SSgt</stationRank>
+		<stationShortDescription>The Product Reporter, or PR, generates serialized, free-text, narrative SIGINT product reports to satisfy theater and national customer's requirements.</stationShortDescription>
+		<stationLongDescription>The PR drafts all CRITICs and CRITIC follow-up reports with input from the S&amp;W and TRs; they also draft and disseminate serialized product reports.  PRs assist the S&amp;W with report quality control checks for each mission when applicable, as well as verifying NICKELBACK code groups and release Advisory Tip-Offs.  PRs perform NICKLEBACK actions as outlined in appropriate United States Signals Intelligence Directives, Combined SIGINT Operation Regulations, and local procedures in conjunction with other applicable crew members.</stationLongDescription>
+		<shortDescriptionAudioLocation>Audio/birdschirping</shortDescriptionAudioLocation>
+		<fullDescriptionAudioLocation>Audio/birdschirping</fullDescriptionAudioLocation>
+		<rankImageFile>Images/Ranks/</rankImageFile>
+	</StationXMLData>
+	<StationXMLData>
+		<stationName>TR</stationName>
+		<stationFullName>Technical Reporters</stationFullName>
+		<stationAbbrev>TR</stationAbbrev>
+		<stationRank>Amn</stationRank>
+		<stationShortDescription>Technical Reporters are referred to as TRs.  TRs generate and disseminate SIGINT technical and tactical reports as well as technical summaries based on collection data.</stationShortDescription>
+		<stationLongDescription>TRs compile and disseminate tactical and technical reports in accordance with local and national reporting directives and maintain reporting statistics.  TRs create reports to fulfill national and theater customer requirements.  These messages must be precise and are scrutinized by the PR for accuracy.   TRs draft assigned portions of PREMS and upon GMS approval, release the PREMS in accordance with NSA directives.  TRs compile and release the TECHSUM as well as extracts and post NICKELBACK code groups and draft and forward ATOs to PR for review and release.  TRs are responsible for issuing all flight following reporting of ISR platforms, when applicable, as well as drafting all CRITIC technical data reports.  TRs also perform NICKLEBACK actions as outlined in appropriate United States Signals Intelligence Directives, Combined SIGINT Operation Regulations, and local procedures in conjunction with other applicable crew members.</stationLongDescription>
+		<shortDescriptionAudioLocation>Audio/birdschirping</shortDescriptionAudioLocation>
+		<fullDescriptionAudioLocation>Audio/birdschirping</fullDescriptionAudioLocation>
+		<rankImageFile>Images/Ranks/</rankImageFile>
+	</StationXMLData>
+	<StationXMLData>
+		<stationName>SIGMOC</stationName>
+		<stationFullName>SIGINT Mission Operations Commander</stationFullName>
+		<stationAbbrev>SIGINT MOC</stationAbbrev>
+		<stationRank>2nd LT,1st LT</stationRank>
+		<stationShortDescription>The SIGINT MOC is responsible for the PED (processing, exploitation, and dissemination) of timely and actionable intelligence developed during a SIGINT-focused mission; however, we also work with the pilot and sensor planner to ensure the imagery targets on an assigned mission are also met.</stationShortDescription>
+		<stationLongDescription>The SIGINT MOC coordinates with the Air Operations Centers, (AOCs), other AF DGS sites, collection platforms, platform liaison officers (LNOs), end users and other exploitation partners for successful mission execution based on Signals Intelligence.  They coordinate site maintenance activity that directly impacts the mission such as logistics, communications, computer support and contractor support.  We MOCs generate and submit the post mission summary report for each mission and utilize various sources to maintain situational awareness and maximize ad hoc and cross-cue collection opportunities.  We are also tasked with managing assigned crew personnel to ensure the Crew Manning Letter (CML) requirement is met for mission Go/No-Go criteria. </stationLongDescription>
+		<shortDescriptionAudioLocation>Audio/birdschirping</shortDescriptionAudioLocation>
+		<fullDescriptionAudioLocation>Audio/birdschirping</fullDescriptionAudioLocation>
+		<rankImageFile>Images/Ranks/</rankImageFile>
+	</StationXMLData>
+	<StationXMLData>
+		<stationName>SIGINTCAN</stationName>
+		<stationFullName>SIGINT Correlation Analyst</stationFullName>
+		<stationAbbrev>SIGINT CAN</stationAbbrev>
+		<stationRank>A1C</stationRank>
+		<stationShortDescription>Correlation Analysts (CAN) serves the same functions on a SIGINT mission as they do during an IMINT mission.</stationShortDescription>
+		<stationLongDescription>The CAN, liaises with the DCGS mission/crew/DART and the supported units by passing near-real time multi-intelligence to/from the DCGS mission crews, supported units and mission partners.  The DART integrates this intelligence into their pre-/post-mission products.  When working on a mission focused on signals collection, they coordinate the addition of any SIGINT requests that hadn't made it onto the standing target deck and work with the customer to ensure that their collection requirements are met. They are also responsible for communicating to the battle space owners when significant collection has been achieved.</stationLongDescription>
+		<shortDescriptionAudioLocation>Audio/birdschirping</shortDescriptionAudioLocation>
+		<fullDescriptionAudioLocation>Audio/birdschirping</fullDescriptionAudioLocation>
+		<rankImageFile>Images/Ranks/</rankImageFile>
+	</StationXMLData>
+	<StationXMLData>
+		<stationName>FMVGA</stationName>
+		<stationFullName>Full Motion Video Geospatial Analyst</stationFullName>
+		<stationAbbrev>FMV GA</stationAbbrev>
+		<stationRank>Amn,A1C,SrA</stationRank>
+		<stationShortDescription>The IMS, or Imagery Mission Supervisor, manages both the FMV (Full Motion Video) mission and the still imagery mission execution.</stationShortDescription>
+		<stationLongDescription>The Imagery Mission Supervisor ensures that all positions on the imagery exploitation side of the ops floor are completing tasks as necessary.  In addition to the management of the mission, the IMS must know all guidance and procedures for imagery exploitation and maintain communication with customers to ensure that requests are being adequately met.  They are the final authority for all intelligence related products and report directly to the Mission Operations Commander (MOC).</stationLongDescription>
+		<shortDescriptionAudioLocation>Audio/birdschirping</shortDescriptionAudioLocation>
+		<fullDescriptionAudioLocation>Audio/birdschirping</fullDescriptionAudioLocation>
+		<rankImageFile>Images/Ranks/</rankImageFile>
+	</StationXMLData>
+	<StationXMLData>
+		<stationName>FMVIMS</stationName>
+		<stationFullName>Full Motion Video Imagery Mission Supervisor</stationFullName>
+		<stationAbbrev>FMV IMS</stationAbbrev>
+		<stationRank>SSgt,TSgt</stationRank>
+		<stationShortDescription>The Geospatial Analyst, or GA, depending on the assigned flight, can be tasked to exploit both Full Motion Video (FMV) and still imagery; but not at the same time.  An FMV GA has to earn an FMV certification before they work FMV.</stationShortDescription>
+		<stationLongDescription>The GA is responsible for the first phase exploitation and creation of imagery intelligence products in accordance with TCPED procedures. The analysis of the imagery given to them is done by focusing on the Essential Elements of Information (EEI) that the customer provides to the GA.  They use reference imagery from past missions to compare them to the current image being analyzed.  They also gather multi-source intelligence and determine its relevancy to the current mission being worked.  The GA reports to the Imagery Mission Supervisor (IMS).</stationLongDescription>
+		<shortDescriptionAudioLocation>Audio/birdschirping</shortDescriptionAudioLocation>
+		<fullDescriptionAudioLocation>Audio/birdschirping</fullDescriptionAudioLocation>
+		<rankImageFile>Images/Ranks/</rankImageFile>
+	</StationXMLData>
+</ArrayOfStationXMLData>
