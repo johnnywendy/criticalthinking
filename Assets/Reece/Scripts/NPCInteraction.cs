@@ -28,9 +28,13 @@ public class NPCInteraction : MonoBehaviour {
 					closest = obj;
 				}
 			}
+			closest.transform.LookAt(transform.position);
+			closest.GetComponent<NPCAIMovement>().StartTalking();
+			transform.LookAt(closest.transform.position);
 			anim.SetAnimState("Talk");
 		}
 		else if (Input.GetKeyDown(KeyCode.E) && isTalking) {
+			closest.GetComponent<NPCAIMovement>().StopTalking();
 			isTalking = false;
 			anim.SetAnimState("Idle");
 		}
